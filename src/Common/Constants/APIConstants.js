@@ -1,0 +1,1 @@
+export const PRODUCTS_API_PATH = "https://dummyjson.com/products"
